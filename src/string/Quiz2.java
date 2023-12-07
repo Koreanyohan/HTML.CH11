@@ -14,7 +14,6 @@ public class Quiz2 {
 		
 		System.out.println(str.substring(9,11));
 		
-		
 		// 해설 풀이
 		System.out.println(str.indexOf("둘"));
 		System.out.println(str.substring(9,11));
